@@ -8,5 +8,5 @@
 
 
 ##Arbeitspakete 25.10.024
-- [ ]M320 repetion und UML versuchen schnell umzusetzen
-- [ ]M294 Auftrag Java Grundlagen Schere Stein Papier spiel fertig machen
+- [ ] M320 repetion und UML versuchen schnell umzusetzen
+- [ ] M294 Auftrag Java Grundlagen Schere Stein Papier spiel fertig machen
