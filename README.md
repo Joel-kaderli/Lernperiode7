@@ -7,6 +7,12 @@
 - [ ]  An der Bibliothek weiterarbeiten.
 
 
-##Arbeitspakete 25.10.024
+## Arbeitspakete 25.10.024
 - [ ] M320 repetion und UML versuchen schnell umzusetzen
 - [ ] M294 Auftrag Java Grundlagen Schere Stein Papier spiel fertig machen
+
+## Arbeitspakete 
+- [ ] M3320 Repetieren UML in code umstezten
+- [ ] M320 Repetition Dokumentatiion, Methoden, Vererbung usw.
+- [ ] Falls früher durch an der Bibliothek weiterarbeiten
+      
