@@ -11,8 +11,13 @@
 - [ ] M320 repetion und UML versuchen schnell umzusetzen
 - [ ] M294 Auftrag Java Grundlagen Schere Stein Papier spiel fertig machen
 
-## Arbeitspakete 
+## Arbeitspakete 01.11.2024
 - [ ] M320 Repetieren UML in code umstezten
 - [ ] M320 Repetition Dokumentatiion, Methoden, Vererbung usw.
 - [ ] Falls früher durch an der Bibliothek weiterarbeiten
+
+## Arbeitspakete
+- [ ] M294 json.backend server BBB fertig machen und Dokumentation wie ich den server Starten kann
+- [ ] M294 Crud auftrag beenden den ich nicht fertig geschafft habe
+- [ ] Dom Maipulation machen das ich sie richtig verstehe
       
