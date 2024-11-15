@@ -25,6 +25,8 @@
 
 - [ ] M294 Crud operationen lernen so das ich sie besser versteh und beherrschen kann
 - [ ] M294 json token auftrag nacharbeiten
+- [ ] Die Bibliothek das Program.cs erstellen und code schreiben um Bücher auszuleihen in der Konsole
+
 
 
       
