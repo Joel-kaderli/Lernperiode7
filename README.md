@@ -1,6 +1,9 @@
 # Lernperiode7
 
-Grob Plannung.....
+# Grobolannung
+Ich stehe mit den Noten gut da und aber im Modul 294 habe ich probleme da ich das Thema noch nicht ganz verstehe und möchte mich in diese Lernperiode mit diesem Modul beschäftigen. Daher will ich eine Webapp machen mit Javascript, HTML und CSS und dabei die neu gelernten sachen andwenden aus dem Modul 294. Allgemein will ich auch wenn es in einem andern Modul nicht gut läuft zeit dafür investieren.
+
+Meine Noten ziele für die Kommenden Module sind: Im Modul 450 ist eine 5,  294 ist eine 4.5 bis 5,  346 ist eine 5.
 
 
 ## Arbeitspakete 18.10.2024
