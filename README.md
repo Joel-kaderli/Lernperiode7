@@ -16,8 +16,15 @@
 - [ ] M320 Repetition Dokumentatiion, Methoden, Vererbung usw.
 - [ ] Falls früher durch an der Bibliothek weiterarbeiten
 
-## Arbeitspakete
+## Arbeitspakete 08.11.2024
 - [ ] M294 json.backend server BBB fertig machen und Dokumentation wie ich den server Starten kann
 - [ ] M294 Crud auftrag beenden den ich nicht fertig geschafft habe
 - [ ] Dom Maipulation machen das ich sie richtig verstehe
+
+## Arbeitspakete 15.11.2024
+
+- [ ] M294 Crud operationen lernen so das ich sie besser versteh und beherrschen kann
+- [ ] M294 json token auftrag nacharbeiten
+
+
       
