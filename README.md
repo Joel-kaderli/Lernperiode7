@@ -32,6 +32,11 @@ Meine Noten ziele für die Kommenden Module sind: Im Modul 450 ist eine 5,  294 
 - [ ] M294 json token auftrag nacharbeiten
 - [ ] Die Bibliothek das Program.cs erstellen und code schreiben um Bücher auszuleihen in der Konsole
 
+## Arbeitspakete 22.11.2024
+
+- [ ] M294 JWT webtoken arbeiten und mit den backend verbinden das es funktioniert
+- [ ] Das Bibliothk Projekt beenden
+
 
 
       
