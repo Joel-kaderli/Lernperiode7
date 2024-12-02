@@ -37,6 +37,9 @@ Meine Noten ziele für die Kommenden Module sind: Im Modul 450 ist eine 5,  294 
 - [ ] M294 JWT webtoken arbeiten und mit den backend verbinden das es funktioniert
 - [ ] Das Bibliothk Projekt beenden
 
+## Arbeitspakete 29.11.2024
+- [ ] Arbeit an der LB 294
+- [ ] Arbeit an der LB 346
 
 
       
