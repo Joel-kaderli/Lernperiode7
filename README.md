@@ -7,39 +7,44 @@ Meine Noten ziele für die Kommenden Module sind: Im Modul 450 ist eine 5,  294 
 
 
 ## Arbeitspakete 18.10.2024
-- [ ] Am der LCR Aufgabe weiterarbeiten vom Modul 320
-- [ ]  Repetion 320 für OOP
-- [ ]  An der Bibliothek weiterarbeiten.
+- [x] Am der LCR Aufgabe weiterarbeiten vom Modul 320
+- [x]  Repetion 320 für OOP
+- [x]  An der Bibliothek weiterarbeiten.
 
 
 ## Arbeitspakete 25.10.024
-- [ ] M320 repetion und UML versuchen schnell umzusetzen
-- [ ] M294 Auftrag Java Grundlagen Schere Stein Papier spiel fertig machen
+- [x] M320 repetion und UML versuchen schnell umzusetzen
+- [x] M294 Auftrag Java Grundlagen Schere Stein Papier spiel fertig machen
 
 ## Arbeitspakete 01.11.2024
-- [ ] M320 Repetieren UML in code umstezten
-- [ ] M320 Repetition Dokumentatiion, Methoden, Vererbung usw.
-- [ ] Falls früher durch an der Bibliothek weiterarbeiten
+- [x] M320 Repetieren UML in code umstezten
+- [x] M320 Repetition Dokumentatiion, Methoden, Vererbung usw.
+- [x] Falls früher durch an der Bibliothek weiterarbeiten
 
 ## Arbeitspakete 08.11.2024
-- [ ] M294 json.backend server BBB fertig machen und Dokumentation wie ich den server Starten kann
-- [ ] M294 Crud auftrag beenden den ich nicht fertig geschafft habe
-- [ ] Dom Maipulation machen das ich sie richtig verstehe
+- [x] M294 json.backend server BBB fertig machen und Dokumentation wie ich den server Starten kann
+- [x] M294 Crud auftrag beenden den ich nicht fertig geschafft habe
+- [x] Dom Maipulation machen das ich sie richtig verstehe
 
 ## Arbeitspakete 15.11.2024
 
-- [ ] M294 Crud operationen lernen so das ich sie besser versteh und beherrschen kann
-- [ ] M294 json token auftrag nacharbeiten
-- [ ] Die Bibliothek das Program.cs erstellen und code schreiben um Bücher auszuleihen in der Konsole
+- [x] M294 Crud operationen lernen so das ich sie besser versteh und beherrschen kann
+- [x] M294 json token auftrag nacharbeiten
+- [x] Die Bibliothek das Program.cs erstellen und code schreiben um Bücher auszuleihen in der Konsole
 
 ## Arbeitspakete 22.11.2024
 
-- [ ] M294 JWT webtoken arbeiten und mit den backend verbinden das es funktioniert
-- [ ] Das Bibliothk Projekt beenden
+- [x] M294 JWT webtoken arbeiten und mit den backend verbinden das es funktioniert
+- [x] Das Bibliothk Projekt beenden
 
 ## Arbeitspakete 29.11.2024
-- [ ] Arbeit an der LB 294
-- [ ] Arbeit an der LB 346
+- [x] Arbeit an der LB 294
+- [x] Arbeit an der LB 346
+
+## Arbeitspakete 06.12.2024
+
+- [ ] Heute will ich mich Informieren zu Wirtschafts Informatik (SAP), da mich das sehr Intressirt auf Grund des Eltern Abends
+- [ ] Advent of Code
 
 
       
