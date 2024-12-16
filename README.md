@@ -46,5 +46,11 @@ Meine Noten ziele für die Kommenden Module sind: Im Modul 450 ist eine 5,  294 
 - [ ] Heute will ich mich Informieren zu Wirtschafts Informatik (SAP), da mich das sehr Intressirt auf Grund des Eltern Abends
 - [ ] Advent of Code
 
+## Arbeitspakete 13.12.2024
+
+- [ ] Advent of Code
+- [ ] Nochmals über SAP informieren
+- [ ] Für das M40 Testen den auftrag Mocking Lösen
+
 
       
