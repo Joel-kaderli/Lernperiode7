@@ -52,5 +52,10 @@ Meine Noten ziele für die Kommenden Module sind: Im Modul 450 ist eine 5,  294 
 - [ ] Nochmals über SAP informieren
 - [ ] Für das M40 Testen den auftrag Mocking Lösen
 
+## Arbeitspakete 20.12.2024
+- [ ] Advent of Code
+- [ ] M295 ein web api Tutoriall fertig machen
+
+
 
       
